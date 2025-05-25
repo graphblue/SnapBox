@@ -1,5 +1,35 @@
 # SnapBox – Full Installation Guide v1.0
 
+## 0. Optional – Download SnapBox using Git
+
+If you prefer to automatically retrieve the latest version of SnapBox from GitHub instead of manually downloading ZIP files:
+
+### ✅ Step-by-step
+
+1. Download and install **Git for Windows** from: https://git-scm.com/download/win
+
+2. Open **Command Prompt** or **Git Bash** and run:
+
+```bash
+git clone https://github.com/graphblue/SnapBox.git C:\SnapBox
+```
+
+3. Navigate into the folder:
+
+```cmd
+cd C:\SnapBox
+```
+
+4. If you need to update later:
+
+```bash
+git pull origin main
+```
+
+> This method will ensure your installation stays synchronized with official releases.
+
+---
+
 ## 1. Create the Telegram Bot
 
 - Open [@BotFather](https://t.me/BotFather) in Telegram
