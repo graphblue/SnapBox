@@ -1,4 +1,4 @@
-# SnapBox – Change Log
+# SnapBox – README
 
 ## Version: v1.0.0
 **Release Date:** 2025-05-22  
